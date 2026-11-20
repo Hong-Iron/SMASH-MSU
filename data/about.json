@@ -1,0 +1,34 @@
+{
+ "region": "전남 목포시 용당동",
+ "nameEn": "Mokpo Science University",
+ "added": "2026-11-01T02:27",
+ "rank": 198,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "MMU",
+   "campus": "국립목포해양대학교",
+   "km": 4.6
+  },
+  {
+   "code": "SEHAN",
+   "campus": "세한대학교 영암캠퍼스",
+   "km": 9.4
+  },
+  {
+   "code": "MNU",
+   "campus": "국립목포대학교 도림캠퍼스",
+   "km": 11.7
+  },
+  {
+   "code": "CHODANG",
+   "campus": "초당대학교",
+   "km": 19.8
+  },
+  {
+   "code": "DONGSHIN",
+   "campus": "동신대학교",
+   "km": 38.8
+  }
+ ]
+}
